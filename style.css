@@ -1,0 +1,71 @@
+body {
+    background-color: powderblue; 
+ }
+
+ 
+ h1 {
+  font-size: 100px; 
+  color: lightcoral;
+  background-color: lightgrey;
+  text-align: center;
+ }
+ 
+ 
+ .tardis {
+     font-size: 40px;
+     color: lightyellow;
+     background-color: red;
+     text-align: center;
+ }
+ 
+ .doctores {
+     font-size: 30px;
+     color: lightsteelblue;
+     background-color: darkolivegreen;
+     border-radius: 5px;
+ }
+ 
+ .tomate {
+     background-color: tomato;
+     color: white;
+ }
+ 
+ .naranja {
+     background-color: orange;
+     color: white;
+ }
+ 
+ .azularcoiris {
+     background-color: DodgerBlue;
+     color: white;
+ }
+ 
+ .verdealga {
+     background-color: mediumseagreen;
+     color: white;
+ }
+ 
+ .gris {
+     background-color: gray;
+     color: white;
+ }
+ 
+ .azulmetalico {
+     background-color: slateblue;
+     color: white;
+ }
+ 
+ .violeta {
+     background-color: violet;
+     color: white;
+ }
+ 
+ .dorado {
+     background-color: gold;
+     color: white;
+ }
+
+ .perritosalchicha {
+     background-color: saddlebrown;
+ }
+
